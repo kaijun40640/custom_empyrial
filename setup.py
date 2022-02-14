@@ -11,9 +11,9 @@ setup(
     package_dir={'': 'src'},
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/kaijun40640/Empyrial/',
-    author="Kai Jun",
-    author_email="kaijun40640@gmail.com",
+    url='',
+    author="",
+    author_email="",
     license='MIT',
     install_requires=[
         'numpy',
